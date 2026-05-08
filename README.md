@@ -136,7 +136,7 @@ Input Image
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/NASO7Y/ocr_egyptian_ID.git
+git clone https://github.com/CUBeis/Egyptian-Id-OCR
 cd ocr_egyptian_ID
 
 # 2. Create and activate a virtual environment
